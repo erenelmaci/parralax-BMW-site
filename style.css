@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+}
+h2 {
+  font-family: "Playfair Display SC", serif;
+  font-size: 2rem;
+  color: rgb(199, 120, 30);
+}
+p {
+  font-family: "Quintessential", cursive;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+}
+body,
+html {
+  height: 100%;
+  background-color: rgb(85, 69, 69);
+}
+.image1 {
+  background-image: url(./img/b785304a00c931a57f24e438e2eac793.jpg);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* opacity: 0.8; */
+}
+.image2 {
+  background-image: url(./img/video.gif);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* opacity: 0.8; */
+  background-color: black;
+}
+.image3 {
+  background-image: url(./img/BMW2.png);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* opacity: 0.8; */
+  background-color: black;
+}
+.image4 {
+  background-image: url(./img/BMW3.png);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* opacity: 0.8; */
+  background-color: black;
+}
+.image5 {
+  background-image: url(./img/BMW5.png);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* opacity: 0.8; */
+  background-color: black;
+}
+.image6 {
+  background-image: url(./img/BMW4.png);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* opacity: 0.8; */
+  background-color: black;
+}
+.head1 {
+  color: white;
+  font-size: 3rem;
+  padding: 1rem;
+  border: 3px solid rgb(63, 35, 35);
+  background-color: rgba(8, 8, 8, 0.473);
+  border-radius: 3rem 0;
+  outline: 0.5rem solid rgb(199, 120, 30);
+  outline-offset: 0.5rem;
+}
+.par1 {
+  text-align: center;
+  margin: 2rem 3rem 2rem 3rem;
+  color: white;
+  word-spacing: 10px;
+}
+.par1 h2 {
+  margin: 1rem;
+}
+.logo {
+  width: 20%;
+  margin-left: 16rem;
+  margin-bottom: 70px;
+}
+.logo1 {
+  width: 40%;
+  margin-left: 12rem;
+  margin-bottom: 70px;
+}
